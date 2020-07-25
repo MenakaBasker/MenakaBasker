@@ -11,6 +11,10 @@ Working as an Associate Software Engineer at Accenture. I'm a tech enthusiastic 
 * Talk at Nepal Cloud Professional Community Engagement on Implement Azure Services in .Net Core web Development
 * Talk at Power Community - Azure Platform Saturday on Explore Azure Blob storage with .Net Core applications [Youtube Link](https://www.youtube.com/watch?v=Gko6rmxVE1A)
 * Talk at Global AI Community - Virtual Tour on Azure AI for .Net core developers [Youtube Link](https://www.youtube.com/watch?v=qFu5uFRUMwI)
+* Talk at MS Build Recap 2020 on What's new with application insights & Azure Monitor [Youtube Link](https://www.youtube.com/watch?v=V7z_1f3F_1g)
+* Talk at C# Ligthup Virtual Conference on Explore .Net Core Microservices With Azure Services [Lightup Conference](https://www.2020twenty.net/lightup/)
+* Talk at TechMeet360 on Explore Azure Cosmos DB with .Net core  [Youtube link](https://youtu.be/kV5p1XU6s3I)
+
 <!--
 **MenakaBasker/MenakaBasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
