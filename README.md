@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Menaka Baskerpillai
 
-Working as an Associate Software Engineer at Accenture. I'm a tech enthusiastic blogger and an international speaker who speaks about cloud and .Net core. I spend my valuable time in learning and sharing my knowledge to the community. I'm also a Former Microsoft Student Partner and Mozilla Firefox student Ambassador. I'm Microsoft certified Resource in Azure and Programming in c#. I've beena recognised as a Most valuable professional by c# corner community for the year 2019 & 2020.
+Working as an Associate Software Engineer at Accenture. I'm a tech enthusiastic blogger and an international speaker who speaks about cloud and .Net core. I spend my valuable time in learning and sharing my knowledge to the community. I'm also a Former Microsoft Student Partner and Mozilla Firefox student Ambassador. I'm Microsoft certified Resource in Azure and Programming in C#. I've been recognised as a Most valuable professional by C# corner community for the year 2019 & 2020.
 
 
 ### Some of my community contributions
