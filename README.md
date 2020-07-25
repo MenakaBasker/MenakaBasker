@@ -7,10 +7,10 @@ Working as an Associate Software Engineer at Accenture. I'm a tech enthusiastic 
 * Blog on Authentication And Authorization Using JSON Web Tokens In .NET CORE 3.1 [Blog Link](https://www.c-sharpcorner.com/article/authentication-and-authorization-using-json-web-tokens-in-net-core-3-1/)
 * Blog on Consuming Web API In .Net Core 3.1 MVC [Blog Link](https://www.c-sharpcorner.com/article/consuming-web-api-in-net-core-3-1-mvc/)
 * Talk at Software Crafters Meetup on How to deploy .NET Core apps in Azure Kubernetes using Azure Devops [Meetup Link](https://www.meetup.com/softwarecrafters/events/271016398)
-* Talk at Azure Day Rome 2020 on Deploy Asp.net core web application to Azure Kubernetes service with Azure DevOps
+* Talk at Azure Day Rome 2020 on Deploy Asp.net core web application to Azure Kubernetes service with Azure DevOps [Event Link](https://azureday.it/speakers/)
 * Blog on Deploy .NET Core Application In Azure Kubernetes With Azure DevOps [Blog Link](https://www.c-sharpcorner.com/article/deploy-net-core-application-in-azure-kubernetes-with-azure-devops/)
 * Talk at Cloud Community Days - Konfhub on Leading edge of modern web apps on Azure [Youtube Link](https://www.youtube.com/watch?v=GbWZFHwmkDU&feature=youtu.be)
-* Talk at Nepal Cloud Professional Community Engagement on Implement Azure Services in .Net Core web Development
+* Talk at Nepal Cloud Professional Community Engagement on Implement Azure Services in .Net Core web Development [Event Link](https://twitter.com/NepalCloudPro/status/1276580133768290304/)
 * Talk at Power Community - Azure Platform Saturday on Explore Azure Blob storage with .Net Core applications [Youtube Link](https://www.youtube.com/watch?v=Gko6rmxVE1A)
 * Blog on Build A .NET Core Microservice With Ocelot API Gateway [Blog Link](https://www.c-sharpcorner.com/article/build-a-micro/)
 * Talk at Global AI Community - Virtual Tour on Azure AI for .Net core developers [Youtube Link](https://www.youtube.com/watch?v=qFu5uFRUMwI)
