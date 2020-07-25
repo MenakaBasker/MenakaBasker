@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Menaka Priyadharshini Baskerpillai working as an Associate Software Engineer at Accenture Digital, she is a tech enthusiastic blogger and an international speaker who speaks about cloud and .Net core. Menaka spends her value time in learning and sharing her knowledge to the community. She is also a Former Microsoft Student Partner and Mozilla Firefox student Ambassador. She is a Microsoft certified Resource in Azure and programming in c#. Menaka recognised as a Most valuable professional by c# corner community
+I'm Menaka Priyadharshini Baskerpillai working as an Associate Software Engineer at Accenture Digital. I'm a tech enthusiastic blogger and an international speaker who speaks about cloud and .Net core. I spend my valuable time in learning and sharing my knowledge to the community. I'm also a Former Microsoft Student Partner and Mozilla Firefox student Ambassador. I'm Microsoft certified Resource in Azure and Programming in c#. I've beena recognised as a Most valuable professional by c# corner community for the year 2019 & 2020.
 
 <!--
 **MenakaBasker/MenakaBasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
