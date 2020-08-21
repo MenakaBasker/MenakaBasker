@@ -20,6 +20,9 @@ Working as an Associate Software Engineer at Accenture. I'm a tech enthusiastic 
 * Talk at SQL Friday on Modern Data Platform Azure Cosmos Db with .Net core  [Youtube link](https://youtu.be/5d5yOqATqvg)
 * Talk at Global AI Community - Virtual AI and ML Conference on Let's explore Azure Cognitive Service with .Net Core web apps  [Youtube link](https://www.youtube.com/channel/UC4Edy8HetfbN5LCje5Oqqcg/)
 * Talk at Open Source Conference 2020 - Hyderabad on A New Era of .Net core deployment using Azure Devops starter  [Youtube link](https://www.youtube.com/watch?v=GtAouGq_7zQ)
+* Talk at Payment village DefCon on Architecting Modern Payment Gateway in .Net Core with Azure  [Youtube link](https://youtu.be/jqjBfp304oI)
+* Talk at Zimbabwe Developer Community, a speical motivational talk on A change is a new begining  [Youtube link](https://youtu.be/2opGprJ_K8Y)
+* Talk at Reading Microsoft Data & AI User Group, on Build and Grow Customer solutions with Azure Bot Services [Event link](https://www.meetup.com/Reading-Microsoft-Data-Platform-User-Group/events/269133606/)
 
 
 <!--
